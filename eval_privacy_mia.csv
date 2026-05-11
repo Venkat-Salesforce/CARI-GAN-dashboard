@@ -1,0 +1,13 @@
+Table,Model,MIA_AUC,Privacy_Risk
+orders,CTGAN,0.995,HIGH
+orders,TabDDPM,0.9532,HIGH
+orders,CARI-GAN,0.9277,HIGH
+order_items,CTGAN,0.7633,HIGH
+order_items,TabDDPM,0.7403,MEDIUM
+order_items,CARI-GAN,0.7521,HIGH
+payments,CTGAN,0.7097,MEDIUM
+payments,TabDDPM,0.9651,HIGH
+payments,CARI-GAN,0.9758,HIGH
+reviews,CTGAN,0.509,LOW
+reviews,TabDDPM,0.886,HIGH
+reviews,CARI-GAN,0.8161,HIGH

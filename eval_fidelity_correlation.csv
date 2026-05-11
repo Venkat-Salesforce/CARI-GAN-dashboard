@@ -1,0 +1,7 @@
+Table,Model,Corr_Frobenius_Norm
+order_items,CTGAN,0.0069
+order_items,TabDDPM,0.2014
+order_items,CARI-GAN,0.0082
+payments,CTGAN,0.2314
+payments,TabDDPM,0.1143
+payments,CARI-GAN,0.2449

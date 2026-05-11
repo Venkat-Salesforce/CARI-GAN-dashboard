@@ -1,0 +1,13 @@
+Table,Column,Comparison,Test,Statistic,p_value,Significant_p05,CARI_better
+orders,delivery_days,vs_CTGAN,Wilcoxon,205266.0,0.0,Yes,No
+orders,delivery_days,vs_TabDDPM,Wilcoxon,223845.0,0.00385,Yes,Yes
+order_items,price,vs_CTGAN,Wilcoxon,239863.0,0.25554,No,No
+order_items,price,vs_TabDDPM,Wilcoxon,243863.0,0.48447,No,No
+order_items,freight_value,vs_CTGAN,Wilcoxon,249271.0,0.91466,No,No
+order_items,freight_value,vs_TabDDPM,Wilcoxon,244352.0,0.51853,No,No
+payments,payment_value,vs_CTGAN,Wilcoxon,248746.0,0.86923,No,No
+payments,payment_value,vs_TabDDPM,Wilcoxon,240505.0,0.2861,No,Yes
+payments,payment_installments,vs_CTGAN,Wilcoxon,215576.5,0.00015,Yes,No
+payments,payment_installments,vs_TabDDPM,Wilcoxon,242929.0,0.42291,No,Yes
+reviews,review_score,vs_CTGAN,Wilcoxon,244801.5,0.54951,No,Yes
+reviews,review_score,vs_TabDDPM,Wilcoxon,239783.0,0.25175,No,Yes

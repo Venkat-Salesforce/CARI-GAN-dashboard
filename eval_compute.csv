@@ -1,0 +1,10 @@
+Model,Table,Train_Sec,Peak_Mem_MB
+CTGAN,orders,458.65,93.34
+TabDDPM,orders,390.25,4.19
+CTGAN,order_items,195.18,67.32
+TabDDPM,order_items,443.0,4.67
+CTGAN,payments,465.74,62.07
+TabDDPM,payments,410.24,4.33
+CTGAN,reviews,142.63,59.27
+TabDDPM,reviews,390.14,4.16
+CARI-GAN,ALL (joint),9232.77,4.26

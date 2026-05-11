@@ -1,0 +1,5 @@
+Model,Avg_Compliance_Pct
+CARI-GAN,100.0
+CTGAN,99.6714
+Real (Baseline),100.0
+TabDDPM,100.0

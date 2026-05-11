@@ -1,0 +1,4 @@
+Model,Total_Train_Sec,Total_Peak_Mem_MB
+CARI-GAN,9232.77,4.26
+CTGAN,1262.2,282.0
+TabDDPM,1633.63,17.35

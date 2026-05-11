@@ -1,0 +1,13 @@
+Child_Table,Model,FK_Violation_Pct
+order_items,CTGAN,2.27
+order_items,TabDDPM,1.31
+order_items,CARI-GAN,2.16
+payments,CTGAN,2.03
+payments,TabDDPM,13.38
+payments,CARI-GAN,8.36
+reviews,CTGAN,0.0
+reviews,TabDDPM,0.0
+reviews,CARI-GAN,0.0
+order_items,Real (Baseline),0.0
+payments,Real (Baseline),0.0
+reviews,Real (Baseline),0.0
